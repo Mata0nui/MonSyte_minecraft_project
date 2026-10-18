@@ -1,0 +1,1 @@
+Изображения загружаются из GitHub-репозитория Mata0nui/IP_Photo_mineCraft_server.\n
